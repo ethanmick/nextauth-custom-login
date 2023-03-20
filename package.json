@@ -13,16 +13,22 @@
   },
   "dependencies": {
     "@prisma/client": "^4.10.1",
+    "@radix-ui/react-label": "^2.0.1",
     "@types/node": "18.14.1",
     "@types/react": "18.0.28",
     "@types/react-dom": "18.0.11",
     "bcrypt": "^5.1.0",
+    "class-variance-authority": "^0.4.0",
+    "clsx": "^1.2.1",
     "eslint": "8.34.0",
     "eslint-config-next": "13.2.1",
+    "lucide-react": "^0.126.0",
     "next": "13.2.1",
     "next-auth": "0.0.0-pr.6777.c5550344",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "tailwind-merge": "^1.10.0",
+    "tailwindcss-animate": "^1.0.5",
     "typescript": "4.9.5"
   },
   "devDependencies": {
